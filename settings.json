@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "orangemc30-ZI98.aternos.me:20749",
+    "port": 20749,
     "version": "",
     "try-creative": false
   },
